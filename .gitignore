@@ -5,7 +5,9 @@
 .pygments-cache
 _deploy
 public
+sass/*
 sass.old
+source/*
 source.old
 source/_stash
 source/stylesheets/screen.css
@@ -13,5 +15,6 @@ vendor
 node_modules
 Gemfile.lock
 Gemfile
+Rakefile
 _config.yml
-_site
+_site/*
